@@ -1,0 +1,10 @@
+{
+  "appId": "com.maxdev.app",
+  "appName": "DevMax",
+  "webDir": "src",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false
+    }
+  }
+}
